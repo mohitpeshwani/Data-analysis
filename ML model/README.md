@@ -5,3 +5,7 @@ This Repository include the models and alogirthms  during learning the Machine L
  <li>Logistic Regression</li>
  <li>Decision Tree Regression and classifier</li>
  <li>Support Vector Machine</li>
+ <li>Random Forest Tree</li>
+ <li>KMeans</li>
+ <li>KNN</li>
+ 
