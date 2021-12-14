@@ -8,4 +8,5 @@ This Repository include the models and alogirthms  during learning the Machine L
  <li>Random Forest Tree</li>
  <li>KMeans</li>
  <li>KNN</li>
+ <li>Naive Bayes Classifier</li>
  
