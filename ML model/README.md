@@ -1,4 +1,4 @@
-## Machine Learning Anlogithm Practice
+## Machine Learning Algorithm Practice
 This Repository include the models and alogirthms  during learning the Machine Learning Algorithms.
 <ol>
  <li>Linear Regression</li>
